@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+   "user": [ { "id": 1, "name": "Ilyas", "surname": "Abdul" , "country":"turkey" ,"address": "uskudar","telephone":"9044456556"
+             }, 
+           ] 
 }
